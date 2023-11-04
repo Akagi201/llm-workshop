@@ -10,6 +10,7 @@ Codes and notes while learning openai
 
 * [Best Practices for API Key Safety](https://help.openai.com/en/articles/5112595-best-practices-for-api-key-safety)
 * <https://ai.meta.com/llama/get-started/>
+* <https://github.com/microsoft/generative-ai-for-beginners>
 
 ## deep learning framework
 
