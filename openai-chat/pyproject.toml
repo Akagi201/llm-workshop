@@ -1,0 +1,19 @@
+[tool.poetry]
+name = "openai-chat"
+version = "0.1.0"
+description = ""
+authors = ["Akagi201 <akagi201@gmail.com>"]
+readme = "README.md"
+packages = [{include = "openai_chat", from = "src"}]
+
+[tool.poetry.dependencies]
+python = "^3.10"
+openai = "^1.11.0"
+
+
+[tool.poetry.group.dev.dependencies]
+black = "^24.1.1"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

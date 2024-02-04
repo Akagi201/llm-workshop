@@ -12,6 +12,7 @@ Codes and notes while learning openai
 * <https://ai.meta.com/llama/get-started/>
 * <https://github.com/microsoft/generative-ai-for-beginners>
 * <https://link3.cc/aipro/>
+* <https://platform.moonshot.cn/docs>
 
 ## deep learning framework
 
