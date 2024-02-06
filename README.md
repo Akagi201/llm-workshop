@@ -6,6 +6,7 @@ Codes and notes while learning openai
 
 * <https://chat.collectivai.com/hwchase17/langchain> - analysis github repo source code
 * <https://github.com/TheR1D/shell_gpt> - chatgpt for cli
+* <https://github.com/aandrew-me/tgpt> - gpt for cli with needing openai keys
 
 ## Nice docs
 
