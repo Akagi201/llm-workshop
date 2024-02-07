@@ -15,6 +15,7 @@ Codes and notes while learning openai
 * <https://github.com/microsoft/generative-ai-for-beginners>
 * <https://link3.cc/aipro/>
 * <https://platform.moonshot.cn/docs>
+* <https://roadmap.sh/ai-data-scientist>
 
 ## Nice courses
 
