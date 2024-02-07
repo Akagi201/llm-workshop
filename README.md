@@ -16,6 +16,10 @@ Codes and notes while learning openai
 * <https://link3.cc/aipro/>
 * <https://platform.moonshot.cn/docs>
 
+## Nice courses
+
+* <https://github.com/mlabonne/llm-course>
+
 ## deep learning framework
 
 * <https://burn-rs.github.io/book/>
