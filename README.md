@@ -8,6 +8,16 @@ Codes and notes while learning openai
 * <https://github.com/TheR1D/shell_gpt> - chatgpt for cli
 * <https://github.com/aandrew-me/tgpt> - gpt for cli with needing openai keys
 
+## Local LLMs
+
+* <https://github.com/edgenai/edgen>
+* <https://ollama.com/>
+* <https://github.com/aandrew-me/tgpt/issues/188>
+
+## Free LLMs
+
+* <https://github.com/aandrew-me/tgpt>
+
 ## Nice docs
 
 * [Best Practices for API Key Safety](https://help.openai.com/en/articles/5112595-best-practices-for-api-key-safety)
