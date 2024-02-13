@@ -10,6 +10,7 @@ Codes and notes while learning openai
 
 ## Local LLMs
 
+* <https://lmstudio.ai/>
 * <https://github.com/edgenai/edgen>
 * <https://ollama.com/>
 * <https://github.com/aandrew-me/tgpt/issues/188>
@@ -26,6 +27,15 @@ Codes and notes while learning openai
 * <https://link3.cc/aipro/>
 * <https://platform.moonshot.cn/docs>
 * <https://roadmap.sh/ai-data-scientist>
+
+## Services
+
+* <https://www.assemblyai.com/>
+* <https://www.coze.com/store_bot>
+
+## GPT Tools
+
+* <https://github.com/BuilderIO/gpt-crawler>
 
 ## Nice courses
 
