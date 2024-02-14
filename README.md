@@ -27,15 +27,24 @@ Codes and notes while learning openai
 * <https://link3.cc/aipro/>
 * <https://platform.moonshot.cn/docs>
 * <https://roadmap.sh/ai-data-scientist>
+* <https://prompts.chat/>
+* <https://promptengineering.org/>
 
 ## Services
 
 * <https://www.assemblyai.com/>
 * <https://www.coze.com/store_bot>
+* <https://github.com/langgenius/dify>
 
 ## GPT Tools
 
 * <https://github.com/BuilderIO/gpt-crawler>
+* <https://github.com/lencx/Noi>
+
+## GPT Projects
+
+* <https://github.com/open-sauced/repo-query>
+* <https://github.com/sobelio/llm-chain>
 
 ## Nice courses
 
