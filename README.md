@@ -29,12 +29,14 @@ Codes and notes while learning openai
 * <https://roadmap.sh/ai-data-scientist>
 * <https://prompts.chat/>
 * <https://promptengineering.org/>
+* <https://github.com/EmbraceAGI/LangGPT> - Structured Prompt
 
 ## Services
 
 * <https://www.assemblyai.com/>
 * <https://www.coze.com/store_bot>
 * <https://github.com/langgenius/dify>
+* <https://gapier.com/>
 
 ## GPT Tools
 
