@@ -30,6 +30,9 @@ Codes and notes while learning openai
 * <https://prompts.chat/>
 * <https://promptengineering.org/>
 * <https://github.com/EmbraceAGI/LangGPT> - Structured Prompt
+* <https://flowgpt.com/> - prompt engineering community
+* <https://promptport.ai/> - prompt engineering community
+* <https://github.com/EmbraceAGI/Awesome-AI-GPTs>
 
 ## Services
 
