@@ -51,6 +51,10 @@ Codes and notes while learning openai
 * <https://github.com/open-sauced/repo-query>
 * <https://github.com/sobelio/llm-chain>
 
+## OpenAI compatible
+
+* <https://github.com/edgenai/edgen>
+
 ## Nice courses
 
 * <https://github.com/mlabonne/llm-course>
