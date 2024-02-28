@@ -33,6 +33,9 @@ Codes and notes while learning openai
 * <https://flowgpt.com/> - prompt engineering community
 * <https://promptport.ai/> - prompt engineering community
 * <https://github.com/EmbraceAGI/Awesome-AI-GPTs>
+* <https://www.promptingguide.ai/>
+* <https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/>
+* <https://github.com/duncantmiller/ai-developer-resources>
 
 ## Services
 
@@ -40,11 +43,14 @@ Codes and notes while learning openai
 * <https://www.coze.com/store_bot>
 * <https://github.com/langgenius/dify>
 * <https://gapier.com/>
+* <https://researchpal.co/research>
+* <https://typeset.io/>
 
 ## GPT Tools
 
 * <https://github.com/BuilderIO/gpt-crawler>
 * <https://github.com/lencx/Noi>
+* <https://github.com/magnusrodseth/gpt-feeder>
 
 ## GPT Projects
 
@@ -58,6 +64,14 @@ Codes and notes while learning openai
 ## Nice courses
 
 * <https://github.com/mlabonne/llm-course>
+
+## OpenAI libs
+
+* <https://github.com/CopilotKit/CopilotKit> - React frontend
+
+## Langchain projects
+
+* <https://github.com/lypsoty112/Prompt-builder/tree/main>
 
 ## deep learning framework
 
