@@ -68,6 +68,7 @@ Codes and notes while learning openai
 ## OpenAI libs
 
 * <https://github.com/CopilotKit/CopilotKit> - React frontend
+* <https://github.com/wiseaidev/gems> - gemini sdk
 
 ## Langchain projects
 
