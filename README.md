@@ -70,9 +70,10 @@ Codes and notes while learning openai
 * <https://github.com/CopilotKit/CopilotKit> - React frontend
 * <https://github.com/wiseaidev/gems> - gemini sdk
 
-## Langchain projects
+## Langchain/RAG projects
 
-* <https://github.com/lypsoty112/Prompt-builder/tree/main>
+* <https://github.com/lypsoty112/Prompt-builder>
+* <https://github.com/homanp/superagent>
 
 ## deep learning framework
 
