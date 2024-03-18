@@ -6,7 +6,7 @@ Codes and notes while learning openai
 
 * <https://chat.collectivai.com/hwchase17/langchain> - analysis github repo source code
 * <https://github.com/TheR1D/shell_gpt> - chatgpt for cli
-* <https://github.com/aandrew-me/tgpt> - gpt for cli with needing openai keys
+* <https://github.com/aandrew-me/tgpt> - gpt for cli without needing openai keys
 
 ## Local LLMs
 
@@ -17,7 +17,7 @@ Codes and notes while learning openai
 
 ## Free LLMs
 
-* <https://github.com/aandrew-me/tgpt>
+* <https://github.com/aandrew-me/tgpt/issues/188>
 
 ## Nice docs
 
@@ -77,6 +77,6 @@ Codes and notes while learning openai
 * <https://github.com/lypsoty112/Prompt-builder>
 * <https://github.com/homanp/superagent>
 
-## deep learning framework
+## Deep learning framework
 
 * <https://burn-rs.github.io/book/>
