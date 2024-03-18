@@ -37,6 +37,7 @@ Codes and notes while learning openai
 * <https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/>
 * <https://github.com/duncantmiller/ai-developer-resources>
 * <https://huggingface.co/learn>
+* <https://spreadsheets-are-all-you-need.ai/index.html>
 
 ## Services
 
