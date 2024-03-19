@@ -38,6 +38,7 @@ Codes and notes while learning openai
 * <https://github.com/duncantmiller/ai-developer-resources>
 * <https://huggingface.co/learn>
 * <https://spreadsheets-are-all-you-need.ai/index.html>
+* <https://github.com/mlabonne/llm-course>
 
 ## Services
 
