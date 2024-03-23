@@ -77,6 +77,7 @@ Codes and notes while learning openai
 
 * <https://github.com/lypsoty112/Prompt-builder>
 * <https://github.com/homanp/superagent>
+* <https://github.com/devflowinc/trieve>
 
 ## Deep learning framework
 
