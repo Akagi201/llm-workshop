@@ -39,6 +39,7 @@ Codes and notes while learning openai
 * <https://huggingface.co/learn>
 * <https://spreadsheets-are-all-you-need.ai/index.html>
 * <https://github.com/mlabonne/llm-course>
+* <https://github.com/georgezouq/awesome-ai-in-finance#High-Frequency-Trading>
 
 ## Services
 
