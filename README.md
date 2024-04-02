@@ -83,3 +83,8 @@ Codes and notes while learning openai
 ## Deep learning framework
 
 * <https://burn-rs.github.io/book/>
+
+## Free Chatgpt/Chatgpt relay
+
+* <https://github.com/chatanywhere/GPT_API_free>
+* <https://api.chatgptid.net/>
