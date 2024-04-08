@@ -1,6 +1,6 @@
-# openai-workshop
+# LLM Workshop
 
-Codes and notes while learning openai
+Codes and notes while learning LLM
 
 ## Nice tools
 
