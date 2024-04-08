@@ -1,13 +1,14 @@
 import os
+
 from openai import OpenAI
 
 client = OpenAI(
-    api_key=os.getenv("MOONSHOT_API_KEY"),
-    base_url="https://api.moonshot.cn/v1",
+    api_key=os.getenv("FREE_CHATGPT_API_KEY"),
+    base_url="https://api.pawan.krd/v1",
 )
 
 completion = client.chat.completions.create(
-    model="moonshot-v1-8k",
+    model="pai-001",
     messages=[
         {
             "role": "system",

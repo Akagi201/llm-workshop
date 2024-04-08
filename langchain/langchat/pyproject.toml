@@ -1,0 +1,23 @@
+[tool.poetry]
+name = "langchat"
+version = "0.1.0"
+description = ""
+authors = ["Akagi201 <akagi201@gmail.com>"]
+readme = "README.md"
+packages = [{include = "langchat", from = "src"}]
+
+[tool.poetry.dependencies]
+python = "^3.12"
+langchain = "^0.1.14"
+langchain-openai = "^0.1.1"
+httpx = "^0.27.0"
+socksio = "^1.0.0"
+langchain-cohere = "^0.1.0"
+beautifulsoup4 = "^4.12.3"
+langchain-community = "^0.0.31"
+faiss-cpu = "^1.8.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

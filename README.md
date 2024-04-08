@@ -7,12 +7,16 @@ Codes and notes while learning openai
 * <https://chat.collectivai.com/hwchase17/langchain> - analysis github repo source code
 * <https://github.com/TheR1D/shell_gpt> - chatgpt for cli
 * <https://github.com/aandrew-me/tgpt> - gpt for cli without needing openai keys
+* <https://github.com/sigoden/aichat>
 
 ## Local LLMs
 
 * <https://lmstudio.ai/>
 * <https://github.com/edgenai/edgen>
 * <https://ollama.com/>
+* <https://useanything.com/>
+* <https://github.com/open-webui/open-webui>
+* <https://github.com/Mintplex-Labs/anything-llm>
 * <https://github.com/aandrew-me/tgpt/issues/188>
 
 ## Free LLMs
@@ -68,6 +72,7 @@ Codes and notes while learning openai
 ## Nice courses
 
 * <https://github.com/mlabonne/llm-course>
+* <https://linklearner.com/home>
 
 ## OpenAI libs
 
@@ -84,7 +89,15 @@ Codes and notes while learning openai
 
 * <https://burn-rs.github.io/book/>
 
+## LLM framework
+
+* <https://github.com/langchain-ai/langchain>
+* <https://github.com/Abraxas-365/langchain-rust>
+* <https://github.com/sobelio/llm-chain>
+* <https://github.com/microsoft/autogen>
+
 ## Free Chatgpt/Chatgpt relay
 
 * <https://github.com/chatanywhere/GPT_API_free>
 * <https://api.chatgptid.net/>
+* <https://github.com/PawanOsman/ChatGPT>
