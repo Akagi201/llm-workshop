@@ -44,6 +44,7 @@ Codes and notes while learning LLM
 * <https://spreadsheets-are-all-you-need.ai/index.html>
 * <https://github.com/mlabonne/llm-course>
 * <https://github.com/georgezouq/awesome-ai-in-finance#High-Frequency-Trading>
+* <https://resources.github.com/learn/pathways/copilot/essentials/essentials-of-github-copilot/>
 
 ## Services
 
@@ -59,11 +60,14 @@ Codes and notes while learning LLM
 * <https://github.com/BuilderIO/gpt-crawler>
 * <https://github.com/lencx/Noi>
 * <https://github.com/magnusrodseth/gpt-feeder>
+* <https://mitenmit.github.io/gpt/> - prompt generator
 
 ## GPT Projects
 
 * <https://github.com/open-sauced/repo-query>
 * <https://github.com/sobelio/llm-chain>
+* <https://github.com/zylon-ai/private-gpt>
+* <https://github.com/karpathy/llm.c>
 
 ## OpenAI compatible
 
@@ -78,6 +82,10 @@ Codes and notes while learning LLM
 
 * <https://github.com/CopilotKit/CopilotKit> - React frontend
 * <https://github.com/wiseaidev/gems> - gemini sdk
+
+## Chatgpt frontent
+
+* <https://github.com/miurla/morphic>
 
 ## Langchain/RAG projects
 
@@ -101,3 +109,8 @@ Codes and notes while learning LLM
 * <https://github.com/chatanywhere/GPT_API_free>
 * <https://api.chatgptid.net/>
 * <https://github.com/PawanOsman/ChatGPT>
+
+## AI for finance
+
+* <https://github.com/AI4Finance-Foundation/FinGPT>
+* <https://github.com/mshumer/gpt-investor>
