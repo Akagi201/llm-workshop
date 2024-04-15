@@ -114,3 +114,4 @@ Codes and notes while learning LLM
 
 * <https://github.com/AI4Finance-Foundation/FinGPT>
 * <https://github.com/mshumer/gpt-investor>
+* <https://github.com/GPTStonks/openbb-chat>
