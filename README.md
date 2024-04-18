@@ -72,6 +72,7 @@ Codes and notes while learning LLM
 ## OpenAI compatible
 
 * <https://github.com/edgenai/edgen>
+* <https://github.com/songquanpeng/one-api>
 
 ## Nice courses
 
@@ -104,6 +105,10 @@ Codes and notes while learning LLM
 * <https://github.com/sobelio/llm-chain>
 * <https://github.com/microsoft/autogen>
 
+## Rust ML
+
+* <https://github.com/guillaume-be/rust-bert>
+
 ## Free Chatgpt/Chatgpt relay
 
 * <https://github.com/chatanywhere/GPT_API_free>
@@ -115,3 +120,7 @@ Codes and notes while learning LLM
 * <https://github.com/AI4Finance-Foundation/FinGPT>
 * <https://github.com/mshumer/gpt-investor>
 * <https://github.com/GPTStonks/openbb-chat>
+
+## robot framework
+
+* <https://github.com/dora-rs/dora?tab=readme-ov-file>
