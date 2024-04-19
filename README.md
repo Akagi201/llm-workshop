@@ -45,6 +45,7 @@ Codes and notes while learning LLM
 * <https://github.com/mlabonne/llm-course>
 * <https://github.com/georgezouq/awesome-ai-in-finance#High-Frequency-Trading>
 * <https://resources.github.com/learn/pathways/copilot/essentials/essentials-of-github-copilot/>
+* <https://github.com/anthropics/anthropic-cookbook>
 
 ## Services
 
@@ -84,7 +85,7 @@ Codes and notes while learning LLM
 * <https://github.com/CopilotKit/CopilotKit> - React frontend
 * <https://github.com/wiseaidev/gems> - gemini sdk
 
-## Chatgpt frontent
+## Chatgpt frontend
 
 * <https://github.com/miurla/morphic>
 
@@ -124,3 +125,7 @@ Codes and notes while learning LLM
 ## robot framework
 
 * <https://github.com/dora-rs/dora?tab=readme-ov-file>
+
+## AI security
+
+* <https://github.com/luijait/DarkGPT>
