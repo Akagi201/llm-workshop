@@ -69,6 +69,7 @@ Codes and notes while learning LLM
 * <https://github.com/sobelio/llm-chain>
 * <https://github.com/zylon-ai/private-gpt>
 * <https://github.com/karpathy/llm.c>
+* <https://github.com/continuedev/continue> - copilot with any LLM
 
 ## OpenAI compatible
 
