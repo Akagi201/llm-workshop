@@ -62,6 +62,7 @@ Codes and notes while learning LLM
 * <https://github.com/lencx/Noi>
 * <https://github.com/magnusrodseth/gpt-feeder>
 * <https://mitenmit.github.io/gpt/> - prompt generator
+* <https://github.com/ikaijua/Awesome-AITools>
 
 ## GPT Projects
 
@@ -70,6 +71,7 @@ Codes and notes while learning LLM
 * <https://github.com/zylon-ai/private-gpt>
 * <https://github.com/karpathy/llm.c>
 * <https://github.com/continuedev/continue> - copilot with any LLM
+* <https://github.com/AugmendTech/snippy> - screen shot to gpt 4
 
 ## OpenAI compatible
 
@@ -122,6 +124,7 @@ Codes and notes while learning LLM
 * <https://github.com/AI4Finance-Foundation/FinGPT>
 * <https://github.com/mshumer/gpt-investor>
 * <https://github.com/GPTStonks/openbb-chat>
+* <https://allmindinvestments.com>
 
 ## robot framework
 
