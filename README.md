@@ -126,6 +126,7 @@ Codes and notes while learning LLM
 * <https://github.com/mshumer/gpt-investor>
 * <https://github.com/GPTStonks/openbb-chat>
 * <https://allmindinvestments.com>
+* <https://github.com/No-Trade-No-Life/Yuan>
 
 ## robot framework
 
