@@ -135,3 +135,7 @@ Codes and notes while learning LLM
 ## AI security
 
 * <https://github.com/luijait/DarkGPT>
+
+## Fine tuning
+
+* <https://github.com/InternLM/xtuner/>
