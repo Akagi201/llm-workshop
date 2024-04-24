@@ -46,6 +46,7 @@ Codes and notes while learning LLM
 * <https://github.com/georgezouq/awesome-ai-in-finance#High-Frequency-Trading>
 * <https://resources.github.com/learn/pathways/copilot/essentials/essentials-of-github-copilot/>
 * <https://github.com/anthropics/anthropic-cookbook>
+* <https://github.com/PandaBearLab/prompt-tutorial>
 
 ## Services
 
