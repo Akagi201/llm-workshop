@@ -129,6 +129,7 @@ Codes and notes while learning LLM
 * <https://github.com/GPTStonks/openbb-chat>
 * <https://allmindinvestments.com>
 * <https://github.com/No-Trade-No-Life/Yuan>
+* <https://www.useequityval.com/>
 
 ## robot framework
 
