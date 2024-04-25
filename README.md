@@ -73,6 +73,7 @@ Codes and notes while learning LLM
 * <https://github.com/karpathy/llm.c>
 * <https://github.com/continuedev/continue> - copilot with any LLM
 * <https://github.com/AugmendTech/snippy> - screen shot to gpt 4
+* <https://github.com/sh2/extension-summarize-translate-gemini> - gemini chrome extension
 
 ## OpenAI compatible
 
@@ -109,6 +110,7 @@ Codes and notes while learning LLM
 * <https://github.com/Abraxas-365/langchain-rust>
 * <https://github.com/sobelio/llm-chain>
 * <https://github.com/microsoft/autogen>
+* <https://github.com/leptonai/leptonai>
 
 ## Rust ML
 
