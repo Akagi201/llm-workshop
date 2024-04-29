@@ -47,6 +47,8 @@ Codes and notes while learning LLM
 * <https://resources.github.com/learn/pathways/copilot/essentials/essentials-of-github-copilot/>
 * <https://github.com/anthropics/anthropic-cookbook>
 * <https://github.com/PandaBearLab/prompt-tutorial>
+* <https://www.cloudskillsboost.google/course_templates/536>
+* <https://medium.com/@samikalliokoski/how-to-make-use-of-llms-more-efficiently-and-cost-effectively-6386d6a223ab> - save llm cost
 
 ## Services
 
@@ -103,6 +105,7 @@ Codes and notes while learning LLM
 ## Deep learning framework
 
 * <https://burn-rs.github.io/book/>
+* <https://github.com/InfiniTensor/transformer-rs>
 
 ## LLM framework
 
@@ -111,6 +114,7 @@ Codes and notes while learning LLM
 * <https://github.com/sobelio/llm-chain>
 * <https://github.com/microsoft/autogen>
 * <https://github.com/leptonai/leptonai>
+* <https://github.com/alvincho/osmb> - llm framework benchmark <https://alvincho.medium.com/%E8%A9%95%E6%B8%AC-ai-%E5%9C%A8%E9%87%91%E8%9E%8D%E9%A0%98%E5%9F%9F%E7%9A%84%E8%83%BD%E5%8A%9B-%E9%96%8B%E6%BA%90%E5%A4%A7%E8%AA%9E%E8%A8%80%E6%A8%A1%E5%9E%8B%E7%9A%84%E6%AF%94%E8%BC%83%E5%88%86%E6%9E%90-00f306b12db4>
 
 ## Rust ML
 
@@ -142,3 +146,7 @@ Codes and notes while learning LLM
 ## Fine tuning
 
 * <https://github.com/InternLM/xtuner/>
+
+## AI products
+
+* <https://www.aiornot.com>
