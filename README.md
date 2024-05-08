@@ -18,6 +18,7 @@ Codes and notes while learning LLM
 * <https://github.com/open-webui/open-webui>
 * <https://github.com/Mintplex-Labs/anything-llm>
 * <https://github.com/aandrew-me/tgpt/issues/188>
+* <https://ollama.com/library?sort=popular> - list all open source LLMs
 
 ## Free LLMs
 
@@ -50,6 +51,12 @@ Codes and notes while learning LLM
 * <https://www.cloudskillsboost.google/course_templates/536>
 * <https://medium.com/@samikalliokoski/how-to-make-use-of-llms-more-efficiently-and-cost-effectively-6386d6a223ab> - save llm cost
 
+## Prompt patterns
+
+* <https://www.linkedin.com/pulse/llm-prompt-engineering-patterns-stephen-redmond>
+* <https://medium.com/@maximilianoneto/exploring-chain-of-thought-prompting-78a86dca3784>
+* <https://medium.com/@lad.jai/interesting-prompt-patterns-chain-of-verification-pattern-8555974cbef6>
+
 ## Services
 
 * <https://www.assemblyai.com/>
@@ -66,6 +73,7 @@ Codes and notes while learning LLM
 * <https://github.com/magnusrodseth/gpt-feeder>
 * <https://mitenmit.github.io/gpt/> - prompt generator
 * <https://github.com/ikaijua/Awesome-AITools>
+* <https://mathgptpro.com/> - math gpt
 
 ## GPT Projects
 
