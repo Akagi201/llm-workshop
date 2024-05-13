@@ -23,6 +23,17 @@ Codes and notes while learning LLM
 ## Free LLMs
 
 * <https://github.com/aandrew-me/tgpt/issues/188>
+* Chat GPT: <https://chatgpt.com/>
+* Mistral AI: <https://chat.mistral.ai/>
+* Claude AI: <https://claude.ai/>
+* Cohere: <https://coral.cohere.com/>
+* Copilot: <https://copilot.microsoft.com/>
+* Perplexity AI: <https://www.perplexity.ai/>
+* Inflection pi AI: <https://pi.ai/>
+* BlackBox AI: <https://www.blackbox.ai/>
+* Gemini: <https://gemini.google.com/>
+* Phind: <https://www.phind.com/>
+* You: <https://you.com/>
 
 ## Nice docs
 
@@ -84,6 +95,7 @@ Codes and notes while learning LLM
 * <https://github.com/continuedev/continue> - copilot with any LLM
 * <https://github.com/AugmendTech/snippy> - screen shot to gpt 4
 * <https://github.com/sh2/extension-summarize-translate-gemini> - gemini chrome extension
+* <https://ideas.reify.ing/en/blog/gpt-plugin-rust-and-lost-gems/> - chatgpt plugin in rust
 
 ## OpenAI compatible
 
@@ -109,6 +121,7 @@ Codes and notes while learning LLM
 * <https://github.com/lypsoty112/Prompt-builder>
 * <https://github.com/homanp/superagent>
 * <https://github.com/devflowinc/trieve>
+* <https://github.com/tmc/langchaingo>
 
 ## Deep learning framework
 
