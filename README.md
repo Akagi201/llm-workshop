@@ -19,6 +19,7 @@ Codes and notes while learning LLM
 * <https://github.com/Mintplex-Labs/anything-llm>
 * <https://github.com/aandrew-me/tgpt/issues/188>
 * <https://ollama.com/library?sort=popular> - list all open source LLMs
+* <https://secretllama.com/> - web llama
 
 ## Free LLMs
 
@@ -122,6 +123,7 @@ Codes and notes while learning LLM
 * <https://github.com/homanp/superagent>
 * <https://github.com/devflowinc/trieve>
 * <https://github.com/tmc/langchaingo>
+* <https://github.com/devflowinc/trieve>
 
 ## Deep learning framework
 
