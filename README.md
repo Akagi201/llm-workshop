@@ -62,6 +62,7 @@ Codes and notes while learning LLM
 * <https://github.com/PandaBearLab/prompt-tutorial>
 * <https://www.cloudskillsboost.google/course_templates/536>
 * <https://medium.com/@samikalliokoski/how-to-make-use-of-llms-more-efficiently-and-cost-effectively-6386d6a223ab> - save llm cost
+* <https://github.com/naklecha/llama3-from-scratch> - Llama3 from scratch
 
 ## Prompt patterns
 
@@ -97,6 +98,7 @@ Codes and notes while learning LLM
 * <https://github.com/AugmendTech/snippy> - screen shot to gpt 4
 * <https://github.com/sh2/extension-summarize-translate-gemini> - gemini chrome extension
 * <https://ideas.reify.ing/en/blog/gpt-plugin-rust-and-lost-gems/> - chatgpt plugin in rust
+* <https://github.com/felix-andreas/gpt-burn> - GPT-2 in Rust and Burn
 
 ## OpenAI compatible
 
@@ -124,6 +126,10 @@ Codes and notes while learning LLM
 * <https://github.com/devflowinc/trieve>
 * <https://github.com/tmc/langchaingo>
 * <https://github.com/devflowinc/trieve>
+
+## LLM models evaluation
+
+* <https://github.com/Giskard-AI/giskard>
 
 ## Deep learning framework
 
@@ -157,6 +163,7 @@ Codes and notes while learning LLM
 * <https://allmindinvestments.com>
 * <https://github.com/No-Trade-No-Life/Yuan>
 * <https://www.useequityval.com/>
+* <https://www.mev.fyi/> - ai for mev
 
 ## robot framework
 
