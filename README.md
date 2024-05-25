@@ -180,3 +180,5 @@ Codes and notes while learning LLM
 ## AI products
 
 * <https://www.aiornot.com>
+* <https://app.opensauced.pizza/star-search> - ai for git history
+* <https://s0.dev/> - ai for code analysis
