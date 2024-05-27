@@ -114,6 +114,7 @@ Codes and notes while learning LLM
 
 * <https://github.com/CopilotKit/CopilotKit> - React frontend
 * <https://github.com/wiseaidev/gems> - gemini sdk
+* <https://github.com/ShelbyJenkins/llm_utils> - rust llm utils
 
 ## Chatgpt frontend
 
