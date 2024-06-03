@@ -50,6 +50,7 @@ Codes and notes while learning LLM
 * <https://flowgpt.com/> - prompt engineering community
 * <https://promptport.ai/> - prompt engineering community
 * <https://github.com/EmbraceAGI/Awesome-AI-GPTs>
+* <https://github.com/ai-boost/Awesome-GPTs>
 * <https://www.promptingguide.ai/>
 * <https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/>
 * <https://github.com/duncantmiller/ai-developer-resources>
@@ -115,6 +116,7 @@ Codes and notes while learning LLM
 * <https://github.com/CopilotKit/CopilotKit> - React frontend
 * <https://github.com/wiseaidev/gems> - gemini sdk
 * <https://github.com/ShelbyJenkins/llm_utils> - rust llm utils
+* <https://github.com/shelbyJenkins/llm_client> - rust llm clients
 
 ## Chatgpt frontend
 
@@ -156,7 +158,7 @@ Codes and notes while learning LLM
 * <https://api.chatgptid.net/>
 * <https://github.com/PawanOsman/ChatGPT>
 
-## AI for finance
+## AI for finance/trading
 
 * <https://github.com/AI4Finance-Foundation/FinGPT>
 * <https://github.com/mshumer/gpt-investor>
@@ -165,6 +167,7 @@ Codes and notes while learning LLM
 * <https://github.com/No-Trade-No-Life/Yuan>
 * <https://www.useequityval.com/>
 * <https://www.mev.fyi/> - ai for mev
+* <https://github.com/eden-network/tx-explain>
 
 ## robot framework
 
@@ -183,3 +186,17 @@ Codes and notes while learning LLM
 * <https://www.aiornot.com>
 * <https://app.opensauced.pizza/star-search> - ai for git history
 * <https://s0.dev/> - ai for code analysis
+* <https://github.com/fabriziosalmi/UglyFeed> - refine rss feeds
+* <https://github.com/Azure/PyRIT> - security analysis for llm
+
+## llama projects
+
+* <https://github.com/distantmagic/paddler> - llama load balancer
+
+## LLM paper
+
+* <https://paperswithcode.com/>
+
+## LLM Jailbreaking
+
+* <https://github.com/pdparchitect/llm-hacking-database>
