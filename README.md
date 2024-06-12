@@ -7,6 +7,7 @@ Codes and notes while learning LLM
 * <https://chat.collectivai.com/hwchase17/langchain> - analysis github repo source code
 * <https://github.com/TheR1D/shell_gpt> - chatgpt for cli
 * <https://github.com/aandrew-me/tgpt> - gpt for cli without needing openai keys
+* <https://github.com/connor-brooks/gptx> - gpt cli, like tgpt
 * <https://github.com/sigoden/aichat>
 
 ## Local LLMs
@@ -64,6 +65,12 @@ Codes and notes while learning LLM
 * <https://www.cloudskillsboost.google/course_templates/536>
 * <https://medium.com/@samikalliokoski/how-to-make-use-of-llms-more-efficiently-and-cost-effectively-6386d6a223ab> - save llm cost
 * <https://github.com/naklecha/llama3-from-scratch> - Llama3 from scratch
+* <https://github.com/dabochen/spreadsheet-is-all-you-need> - build gpt from spreadsheet
+
+## Nice books
+
+* <https://github.com/LLMBook-zh/LLMBook-zh.github.io>
+* <https://github.com/datawhalechina/llm-universe>
 
 ## Prompt patterns
 
@@ -88,6 +95,7 @@ Codes and notes while learning LLM
 * <https://mitenmit.github.io/gpt/> - prompt generator
 * <https://github.com/ikaijua/Awesome-AITools>
 * <https://mathgptpro.com/> - math gpt
+* <https://github.com/xhjkl/well> - chat with codebase
 
 ## GPT Projects
 
@@ -100,6 +108,10 @@ Codes and notes while learning LLM
 * <https://github.com/sh2/extension-summarize-translate-gemini> - gemini chrome extension
 * <https://ideas.reify.ing/en/blog/gpt-plugin-rust-and-lost-gems/> - chatgpt plugin in rust
 * <https://github.com/felix-andreas/gpt-burn> - GPT-2 in Rust and Burn
+* <https://github.com/Canonical-AI-Inc/canonical> - llm semantic cache
+* <https://github.com/addyosmani/chatty>
+* <https://github.com/BerriAI/litellm> - turn other llms to openai interface
+* <https://github.com/EricLBuehler/mistral.rs> - rust llm inference
 
 ## OpenAI compatible
 
@@ -129,6 +141,7 @@ Codes and notes while learning LLM
 * <https://github.com/devflowinc/trieve>
 * <https://github.com/tmc/langchaingo>
 * <https://github.com/devflowinc/trieve>
+* <https://github.com/joshua-mo-143/severn> - AI agent chain in Rust
 
 ## LLM models evaluation
 
@@ -188,10 +201,13 @@ Codes and notes while learning LLM
 * <https://s0.dev/> - ai for code analysis
 * <https://github.com/fabriziosalmi/UglyFeed> - refine rss feeds
 * <https://github.com/Azure/PyRIT> - security analysis for llm
+* <https://www.promptotype.io> - prompt management
+* <https://www.swebench.com/> - ai solve github issue
 
 ## llama projects
 
 * <https://github.com/distantmagic/paddler> - llama load balancer
+* <https://github.com/Bklieger/groqbook> - generate book from LIama3 on Groq
 
 ## LLM paper
 
