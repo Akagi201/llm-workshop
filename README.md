@@ -66,6 +66,7 @@ Codes and notes while learning LLM
 * <https://medium.com/@samikalliokoski/how-to-make-use-of-llms-more-efficiently-and-cost-effectively-6386d6a223ab> - save llm cost
 * <https://github.com/naklecha/llama3-from-scratch> - Llama3 from scratch
 * <https://github.com/dabochen/spreadsheet-is-all-you-need> - build gpt from spreadsheet
+* <https://github.com/ulab-uiuc/AGI-survey> - AGI
 
 ## Nice books
 
@@ -74,6 +75,8 @@ Codes and notes while learning LLM
 
 ## Prompt patterns
 
+* <https://prompty.ai/> - microsoft prompt spec
+* <https://github.com/hyperaide/promptspec> - another prompt spec
 * <https://www.linkedin.com/pulse/llm-prompt-engineering-patterns-stephen-redmond>
 * <https://medium.com/@maximilianoneto/exploring-chain-of-thought-prompting-78a86dca3784>
 * <https://medium.com/@lad.jai/interesting-prompt-patterns-chain-of-verification-pattern-8555974cbef6>
@@ -112,6 +115,8 @@ Codes and notes while learning LLM
 * <https://github.com/addyosmani/chatty>
 * <https://github.com/BerriAI/litellm> - turn other llms to openai interface
 * <https://github.com/EricLBuehler/mistral.rs> - rust llm inference
+* <https://github.com/douglasmakey/shelldon> - gpt cli
+* <https://github.com/AgentOps-AI/tokencost> - llm cost calculator
 
 ## OpenAI compatible
 
@@ -142,6 +147,8 @@ Codes and notes while learning LLM
 * <https://github.com/tmc/langchaingo>
 * <https://github.com/devflowinc/trieve>
 * <https://github.com/joshua-mo-143/severn> - AI agent chain in Rust
+* <https://github.com/sobelio/llm-chain> - Rust RAG framework
+* <https://github.com/bosun-ai/swiftide> - Rust RAG framework
 
 ## LLM models evaluation
 
@@ -203,6 +210,9 @@ Codes and notes while learning LLM
 * <https://github.com/Azure/PyRIT> - security analysis for llm
 * <https://www.promptotype.io> - prompt management
 * <https://www.swebench.com/> - ai solve github issue
+* <https://www.aitoprank.com/> - AI ranklist
+* <https://tyy.ai/> - AI ranklist
+* <https://dessign.net/> - AI ranklist
 
 ## llama projects
 
@@ -216,3 +226,11 @@ Codes and notes while learning LLM
 ## LLM Jailbreaking
 
 * <https://github.com/pdparchitect/llm-hacking-database>
+
+## Translate projects
+
+* <https://github.com/andrewyng/translation-agent>
+
+## AI Girlfriend
+
+* <https://aigirl.best/>
