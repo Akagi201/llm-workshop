@@ -8,6 +8,7 @@ Codes and notes while learning LLM
 * <https://github.com/TheR1D/shell_gpt> - chatgpt for cli
 * <https://github.com/aandrew-me/tgpt> - gpt for cli without needing openai keys
 * <https://github.com/connor-brooks/gptx> - gpt cli, like tgpt
+* <https://github.com/guywaldman/magic-cli> - gpt cli, like tgpt
 * <https://github.com/sigoden/aichat>
 
 ## Local LLMs
@@ -21,6 +22,7 @@ Codes and notes while learning LLM
 * <https://github.com/aandrew-me/tgpt/issues/188>
 * <https://ollama.com/library?sort=popular> - list all open source LLMs
 * <https://secretllama.com/> - web llama
+* <https://github.com/floneum/floneum> - local llm in rust
 
 ## Free LLMs
 
@@ -36,6 +38,7 @@ Codes and notes while learning LLM
 * Gemini: <https://gemini.google.com/>
 * Phind: <https://www.phind.com/>
 * You: <https://you.com/>
+* <https://groq.com/>
 
 ## Nice docs
 
@@ -72,6 +75,7 @@ Codes and notes while learning LLM
 
 * <https://github.com/LLMBook-zh/LLMBook-zh.github.io>
 * <https://github.com/datawhalechina/llm-universe>
+* <https://github.com/karpathy/LLM101n>
 
 ## Prompt patterns
 
@@ -99,6 +103,12 @@ Codes and notes while learning LLM
 * <https://github.com/ikaijua/Awesome-AITools>
 * <https://mathgptpro.com/> - math gpt
 * <https://github.com/xhjkl/well> - chat with codebase
+
+## LLM comparison
+
+* <https://llmpricecheck.com/> - LLM Pricing comparison
+* <https://www.vellum.ai/>
+* <https://chat.lmsys.org/>
 
 ## GPT Projects
 
@@ -159,7 +169,7 @@ Codes and notes while learning LLM
 * <https://burn-rs.github.io/book/>
 * <https://github.com/InfiniTensor/transformer-rs>
 
-## LLM framework
+## LLM framework/Lib
 
 * <https://github.com/langchain-ai/langchain>
 * <https://github.com/Abraxas-365/langchain-rust>
@@ -167,6 +177,9 @@ Codes and notes while learning LLM
 * <https://github.com/microsoft/autogen>
 * <https://github.com/leptonai/leptonai>
 * <https://github.com/alvincho/osmb> - llm framework benchmark <https://alvincho.medium.com/%E8%A9%95%E6%B8%AC-ai-%E5%9C%A8%E9%87%91%E8%9E%8D%E9%A0%98%E5%9F%9F%E7%9A%84%E8%83%BD%E5%8A%9B-%E9%96%8B%E6%BA%90%E5%A4%A7%E8%AA%9E%E8%A8%80%E6%A8%A1%E5%9E%8B%E7%9A%84%E6%AF%94%E8%BC%83%E5%88%86%E6%9E%90-00f306b12db4>
+* <https://github.com/BerriAI/litellm>
+* <https://github.com/TuckerBMorgan/poro> - pytorch in Rust
+* <https://github.com/joshua-mo-143/severn>
 
 ## Rust ML
 
@@ -213,6 +226,7 @@ Codes and notes while learning LLM
 * <https://www.aitoprank.com/> - AI ranklist
 * <https://tyy.ai/> - AI ranklist
 * <https://dessign.net/> - AI ranklist
+* <https://devv.ai/> - AI search engine for developers
 
 ## llama projects
 
@@ -234,3 +248,24 @@ Codes and notes while learning LLM
 ## AI Girlfriend
 
 * <https://aigirl.best/>
+
+## Embedding DB
+
+* <https://github.com/chroma-core/chroma>
+
+## LLM data
+
+* <https://github.com/adithya-s-k/omniparse> - parse everything into LLM RAG data.
+
+## Crypto X AI
+
+* <https://github.com/semiotic-ai>
+* <https://www.agentc.xyz/>
+
+## LLM Ops
+
+* <https://github.com/pezzolabs/pezzo>
+
+## AI workflow
+
+* <https://relay.app/>
