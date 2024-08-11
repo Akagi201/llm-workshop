@@ -23,6 +23,7 @@ Codes and notes while learning LLM
 * <https://ollama.com/library?sort=popular> - list all open source LLMs
 * <https://secretllama.com/> - web llama
 * <https://github.com/floneum/floneum> - local llm in rust
+* <https://github.com/evilsocket/cake> - local llm in rust
 
 ## Free LLMs
 
@@ -67,6 +68,7 @@ Codes and notes while learning LLM
 * <https://github.com/PandaBearLab/prompt-tutorial>
 * <https://www.cloudskillsboost.google/course_templates/536>
 * <https://medium.com/@samikalliokoski/how-to-make-use-of-llms-more-efficiently-and-cost-effectively-6386d6a223ab> - save llm cost
+* <https://portkey.ai/blog/implementing-frugalgpt-smarter-llm-usage-for-lower-costs/> - save llm cost
 * <https://github.com/naklecha/llama3-from-scratch> - Llama3 from scratch
 * <https://github.com/dabochen/spreadsheet-is-all-you-need> - build gpt from spreadsheet
 * <https://github.com/ulab-uiuc/AGI-survey> - AGI
@@ -103,6 +105,8 @@ Codes and notes while learning LLM
 * <https://github.com/ikaijua/Awesome-AITools>
 * <https://mathgptpro.com/> - math gpt
 * <https://github.com/xhjkl/well> - chat with codebase
+* <https://math.bot/> - math gpt
+* <https://mathai.online/> - math ai
 
 ## LLM comparison
 
@@ -201,6 +205,7 @@ Codes and notes while learning LLM
 * <https://www.useequityval.com/>
 * <https://www.mev.fyi/> - ai for mev
 * <https://github.com/eden-network/tx-explain>
+* <https://www.finvalia.ai/> - ai stock news
 
 ## robot framework
 
@@ -236,6 +241,7 @@ Codes and notes while learning LLM
 ## LLM paper
 
 * <https://paperswithcode.com/>
+* <https://www.emergentmind.com/>
 
 ## LLM Jailbreaking
 
@@ -269,3 +275,24 @@ Codes and notes while learning LLM
 ## AI workflow
 
 * <https://relay.app/>
+
+## LLM SaaS
+
+* <https://www.together.ai/>
+* <https://deepinfra.com/>
+
+## LLM gateway/proxy
+
+* <https://github.com/IncredibleDevHQ/agent-panel>
+
+## LLM wasm
+
+* <https://github.com/abi/secret-llama>
+
+## Chrome AI extension
+
+* <https://chromewebstore.google.com/detail/scaffoly/ifonfkpiahoafgmfjebocgaadgbjbebc> - AI-Powered Reading Level Adjustment
+
+## structured generation
+
+* <https://github.com/outlines-dev/outlines>
