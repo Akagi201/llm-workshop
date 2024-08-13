@@ -10,6 +10,7 @@ Codes and notes while learning LLM
 * <https://github.com/connor-brooks/gptx> - gpt cli, like tgpt
 * <https://github.com/guywaldman/magic-cli> - gpt cli, like tgpt
 * <https://github.com/sigoden/aichat>
+* <https://github.com/ashwin-pc/merge_files> - github repo to txt
 
 ## Local LLMs
 
@@ -72,6 +73,10 @@ Codes and notes while learning LLM
 * <https://github.com/naklecha/llama3-from-scratch> - Llama3 from scratch
 * <https://github.com/dabochen/spreadsheet-is-all-you-need> - build gpt from spreadsheet
 * <https://github.com/ulab-uiuc/AGI-survey> - AGI
+
+## GPT explain
+
+* <https://bbycroft.net/llm>
 
 ## Nice books
 
@@ -284,6 +289,8 @@ Codes and notes while learning LLM
 ## LLM gateway/proxy
 
 * <https://github.com/IncredibleDevHQ/agent-panel>
+* <https://github.com/cg-dot/vertexai-cf-workers>
+* <https://github.com/TheValkyrja/VertexClaudeProxy>
 
 ## LLM wasm
 
