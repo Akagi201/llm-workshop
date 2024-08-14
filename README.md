@@ -118,6 +118,7 @@ Codes and notes while learning LLM
 * <https://llmpricecheck.com/> - LLM Pricing comparison
 * <https://www.vellum.ai/>
 * <https://chat.lmsys.org/>
+* <https://compareaimodels.com/premium/>
 
 ## GPT Projects
 
@@ -303,3 +304,7 @@ Codes and notes while learning LLM
 ## structured generation
 
 * <https://github.com/outlines-dev/outlines>
+
+## AI Document Writer
+
+* <https://www.delta-analysis.com/>
