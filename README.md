@@ -292,6 +292,7 @@ Codes and notes while learning LLM
 * <https://github.com/IncredibleDevHQ/agent-panel>
 * <https://github.com/cg-dot/vertexai-cf-workers>
 * <https://github.com/TheValkyrja/VertexClaudeProxy>
+* <https://github.com/Portkey-AI/gateway>
 
 ## LLM wasm
 
@@ -308,3 +309,11 @@ Codes and notes while learning LLM
 ## AI Document Writer
 
 * <https://www.delta-analysis.com/>
+
+## AI Search
+
+* <https://thegigabrain.com/> - AI search with reddit
+
+## AI embedding database
+
+* <https://github.com/chroma-core/chroma>
