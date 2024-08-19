@@ -317,3 +317,7 @@ Codes and notes while learning LLM
 ## AI embedding database
 
 * <https://github.com/chroma-core/chroma>
+
+## AI Text processor
+
+* <https://www.structai.in/> - github repo to text
