@@ -321,3 +321,11 @@ Codes and notes while learning LLM
 ## AI Text processor
 
 * <https://www.structai.in/> - github repo to text
+
+## LLM toys
+
+* <https://github.com/adalkiran/llama-nuts-and-bolts>
+
+## LLM observability
+
+* <https://github.com/evidentlyai/evidently>
