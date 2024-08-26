@@ -128,6 +128,7 @@ Codes and notes while learning LLM
 * <https://github.com/karpathy/llm.c>
 * <https://github.com/continuedev/continue> - copilot with any LLM
 * <https://github.com/AugmendTech/snippy> - screen shot to gpt 4
+* <https://github.com/mediar-ai/screenpipe> - screen and audio rust app
 * <https://github.com/sh2/extension-summarize-translate-gemini> - gemini chrome extension
 * <https://ideas.reify.ing/en/blog/gpt-plugin-rust-and-lost-gems/> - chatgpt plugin in rust
 * <https://github.com/felix-andreas/gpt-burn> - GPT-2 in Rust and Burn
@@ -313,6 +314,7 @@ Codes and notes while learning LLM
 ## AI Search
 
 * <https://thegigabrain.com/> - AI search with reddit
+* <https://github.com/InternLM/MindSearch>
 
 ## AI embedding database
 
@@ -329,3 +331,4 @@ Codes and notes while learning LLM
 ## LLM observability
 
 * <https://github.com/evidentlyai/evidently>
+* <https://www.helicone.ai/>
