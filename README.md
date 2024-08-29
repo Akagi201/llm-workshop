@@ -191,6 +191,7 @@ Codes and notes while learning LLM
 * <https://github.com/BerriAI/litellm>
 * <https://github.com/TuckerBMorgan/poro> - pytorch in Rust
 * <https://github.com/joshua-mo-143/severn>
+* <https://github.com/0xPlaygrounds/rig> - rust llm framework
 
 ## Rust ML
 
