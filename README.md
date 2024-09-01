@@ -240,6 +240,7 @@ Codes and notes while learning LLM
 * <https://tyy.ai/> - AI ranklist
 * <https://dessign.net/> - AI ranklist
 * <https://devv.ai/> - AI search engine for developers
+* <https://aitoolly.com/> - AI products directory
 
 ## llama projects
 
@@ -316,6 +317,7 @@ Codes and notes while learning LLM
 
 * <https://thegigabrain.com/> - AI search with reddit
 * <https://github.com/InternLM/MindSearch>
+* <https://hn.trieve.ai/> - AI search for HN
 
 ## AI embedding database
 
