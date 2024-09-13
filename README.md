@@ -73,6 +73,7 @@ Codes and notes while learning LLM
 * <https://github.com/naklecha/llama3-from-scratch> - Llama3 from scratch
 * <https://github.com/dabochen/spreadsheet-is-all-you-need> - build gpt from spreadsheet
 * <https://github.com/ulab-uiuc/AGI-survey> - AGI
+* <https://cursor.directory/> - cursor prompts
 
 ## GPT explain
 
@@ -318,6 +319,12 @@ Codes and notes while learning LLM
 * <https://thegigabrain.com/> - AI search with reddit
 * <https://github.com/InternLM/MindSearch>
 * <https://hn.trieve.ai/> - AI search for HN
+* <https://github.com/devflowinc/trieve> - Rust
+* <https://github.com/Talc-AI/search-bench> - AI Search bench
+
+## LLM Data
+
+* <https://www.firecrawl.dev/>
 
 ## AI embedding database
 
@@ -335,3 +342,4 @@ Codes and notes while learning LLM
 
 * <https://github.com/evidentlyai/evidently>
 * <https://www.helicone.ai/>
+* <https://github.com/lmnr-ai/lmnr> - open source and rust
