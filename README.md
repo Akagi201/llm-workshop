@@ -193,6 +193,7 @@ Codes and notes while learning LLM
 * <https://github.com/TuckerBMorgan/poro> - pytorch in Rust
 * <https://github.com/joshua-mo-143/severn>
 * <https://github.com/0xPlaygrounds/rig> - rust llm framework
+* <https://github.com/tensorzero/tensorzero/> - rust
 
 ## Rust ML
 
@@ -321,6 +322,7 @@ Codes and notes while learning LLM
 * <https://hn.trieve.ai/> - AI search for HN
 * <https://github.com/devflowinc/trieve> - Rust
 * <https://github.com/Talc-AI/search-bench> - AI Search bench
+* <https://github.com/bosun-ai/swiftide>
 
 ## LLM Data
 
