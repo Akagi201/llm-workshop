@@ -244,6 +244,9 @@ Codes and notes while learning LLM
 * <https://dessign.net/> - AI ranklist
 * <https://devv.ai/> - AI search engine for developers
 * <https://aitoolly.com/> - AI products directory
+* <https://github.com/mediar-ai/screenpipe> - Opensource Local AI screen and mic recorder
+* <https://notebooklm.google.com> - Google AI Notebook, with gemini pro inside
+* <https://spellar.ai/> - native AI meeting recorder
 
 ## llama projects
 
