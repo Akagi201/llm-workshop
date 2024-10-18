@@ -93,6 +93,10 @@ Codes and notes while learning LLM
 * <https://medium.com/@maximilianoneto/exploring-chain-of-thought-prompting-78a86dca3784>
 * <https://medium.com/@lad.jai/interesting-prompt-patterns-chain-of-verification-pattern-8555974cbef6>
 
+## Prompt Engineering
+
+* <https://app.latitude.so> - use LLM to modify you prompt
+
 ## Services
 
 * <https://www.assemblyai.com/>
@@ -121,6 +125,7 @@ Codes and notes while learning LLM
 * <https://www.vellum.ai/>
 * <https://chat.lmsys.org/>
 * <https://compareaimodels.com/premium/>
+* <https://llmcost.me/>
 
 ## GPT Projects
 
@@ -138,6 +143,7 @@ Codes and notes while learning LLM
 * <https://github.com/addyosmani/chatty>
 * <https://github.com/BerriAI/litellm> - turn other llms to openai interface
 * <https://github.com/EricLBuehler/mistral.rs> - rust llm inference
+* <https://github.com/samuel-vitorino/lm.rs> - rust llm inference
 * <https://github.com/douglasmakey/shelldon> - gpt cli
 * <https://github.com/AgentOps-AI/tokencost> - llm cost calculator
 
@@ -172,10 +178,12 @@ Codes and notes while learning LLM
 * <https://github.com/joshua-mo-143/severn> - AI agent chain in Rust
 * <https://github.com/sobelio/llm-chain> - Rust RAG framework
 * <https://github.com/bosun-ai/swiftide> - Rust RAG framework
+* <https://github.com/Abraxas-365/langchain-rust> - langchain for rust
 
 ## LLM models evaluation
 
 * <https://github.com/Giskard-AI/giskard>
+* <https://www.talc.ai/>
 
 ## Deep learning framework
 
@@ -349,3 +357,28 @@ Codes and notes while learning LLM
 * <https://github.com/evidentlyai/evidently>
 * <https://www.helicone.ai/>
 * <https://github.com/lmnr-ai/lmnr> - open source and rust
+
+## LLM UI
+
+* <https://github.com/gradio-app/gradio>
+
+## Notebook to podcast
+
+* <https://huggingface.co/spaces/gabrielchua/open-notebooklm>
+* <https://github.com/souzatharsis/podcastfy>
+
+## AI Code Review
+
+* <https://github.com/vossenwout/crev> - code bundle and ai code review the whole code.
+
+## LLM Memory
+
+* <https://mem0.ai>
+
+## LLM Confabulation
+
+* <https://github.com/lechmazur/confabulations/>
+
+## Fake human
+
+* <https://github.com/met4citizen/TalkingHead>
