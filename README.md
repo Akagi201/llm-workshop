@@ -74,6 +74,8 @@ Codes and notes while learning LLM
 * <https://github.com/dabochen/spreadsheet-is-all-you-need> - build gpt from spreadsheet
 * <https://github.com/ulab-uiuc/AGI-survey> - AGI
 * <https://cursor.directory/> - cursor prompts
+* <https://github.com/NirDiamant/RAG_Techniques> - RAG knowledges
+* <https://github.com/anthropics/courses>
 
 ## GPT explain
 
