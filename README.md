@@ -76,6 +76,7 @@ Codes and notes while learning LLM
 * <https://cursor.directory/> - cursor prompts
 * <https://github.com/NirDiamant/RAG_Techniques> - RAG knowledges
 * <https://github.com/anthropics/courses>
+* <https://github.com/Hoper-J/AI-Guide-and-Demos-zh_CN>
 
 ## GPT explain
 
@@ -169,6 +170,7 @@ Codes and notes while learning LLM
 ## Chatgpt frontend
 
 * <https://github.com/miurla/morphic>
+* <https://github.com/vercel/ai-chatbot>
 
 ## Langchain/RAG projects
 
