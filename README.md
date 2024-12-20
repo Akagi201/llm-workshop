@@ -87,6 +87,7 @@ Codes and notes while learning LLM
 * <https://github.com/LLMBook-zh/LLMBook-zh.github.io>
 * <https://github.com/datawhalechina/llm-universe>
 * <https://github.com/karpathy/LLM101n>
+* <https://datawhalechina.github.io/llm-universe/#/>
 
 ## Prompt patterns
 
@@ -120,6 +121,7 @@ Codes and notes while learning LLM
 * <https://github.com/xhjkl/well> - chat with codebase
 * <https://math.bot/> - math gpt
 * <https://mathai.online/> - math ai
+* <https://math-gpt.org/>
 
 ## LLM comparison
 
@@ -183,6 +185,7 @@ Codes and notes while learning LLM
 * <https://github.com/sobelio/llm-chain> - Rust RAG framework
 * <https://github.com/bosun-ai/swiftide> - Rust RAG framework
 * <https://github.com/Abraxas-365/langchain-rust> - langchain for rust
+* <https://github.com/baehyunsol/ragit>
 
 ## LLM models evaluation
 
@@ -289,6 +292,7 @@ Codes and notes while learning LLM
 ## LLM data
 
 * <https://github.com/adithya-s-k/omniparse> - parse everything into LLM RAG data.
+* <https://www.datafuel.dev/>
 
 ## Crypto X AI
 
@@ -351,6 +355,7 @@ Codes and notes while learning LLM
 ## AI Text processor
 
 * <https://www.structai.in/> - github repo to text
+* <https://github.com/yamadashy/repomix> - github repo to text
 
 ## LLM toys
 
@@ -383,6 +388,15 @@ Codes and notes while learning LLM
 
 * <https://github.com/lechmazur/confabulations/>
 
+## Editor AI
+
+* <https://github.com/codestoryai/sidecar> - <https://aide.dev/>
+
 ## Fake human
 
 * <https://github.com/met4citizen/TalkingHead>
+
+## LLM for terminal
+
+* <https://github.com/cortesi/tenx>
+* <https://github.com/Aider-AI/aider>
