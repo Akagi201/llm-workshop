@@ -11,6 +11,7 @@ Codes and notes while learning LLM
 * <https://github.com/guywaldman/magic-cli> - gpt cli, like tgpt
 * <https://github.com/sigoden/aichat>
 * <https://github.com/ashwin-pc/merge_files> - github repo to txt
+* <https://github.com/cyclotruc/gitingest> - github repo to txt
 
 ## Local LLMs
 
@@ -186,6 +187,7 @@ Codes and notes while learning LLM
 * <https://github.com/bosun-ai/swiftide> - Rust RAG framework
 * <https://github.com/Abraxas-365/langchain-rust> - langchain for rust
 * <https://github.com/baehyunsol/ragit>
+* <https://github.com/tensorzero/tensorzero> -- Rust RAG framework
 
 ## LLM models evaluation
 
@@ -208,7 +210,7 @@ Codes and notes while learning LLM
 * <https://github.com/BerriAI/litellm>
 * <https://github.com/TuckerBMorgan/poro> - pytorch in Rust
 * <https://github.com/joshua-mo-143/severn>
-* <https://github.com/0xPlaygrounds/rig> - rust llm framework
+* <https://github.com/0xPlaygrounds/rig> - rust llm framework, best
 * <https://github.com/tensorzero/tensorzero/> - rust
 
 ## Rust ML
@@ -232,6 +234,8 @@ Codes and notes while learning LLM
 * <https://www.mev.fyi/> - ai for mev
 * <https://github.com/eden-network/tx-explain>
 * <https://www.finvalia.ai/> - ai stock news
+* <https://github.com/hananedupouy/LLMs-in-Finance>
+* <https://github.com/virattt/ai-hedge-fund>
 
 ## robot framework
 
