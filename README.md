@@ -12,6 +12,7 @@ Codes and notes while learning LLM
 * <https://github.com/sigoden/aichat>
 * <https://github.com/ashwin-pc/merge_files> - github repo to txt
 * <https://github.com/cyclotruc/gitingest> - github repo to txt
+* <https://github.com/bodo-run/yek> - github repo to txt
 
 ## Local LLMs
 
@@ -189,6 +190,10 @@ Codes and notes while learning LLM
 * <https://github.com/baehyunsol/ragit>
 * <https://github.com/tensorzero/tensorzero> -- Rust RAG framework
 
+## AI Agent
+
+* <https://metaschool.so/ai-agents> - ai agent marketplace
+
 ## LLM models evaluation
 
 * <https://github.com/Giskard-AI/giskard>
@@ -236,6 +241,7 @@ Codes and notes while learning LLM
 * <https://www.finvalia.ai/> - ai stock news
 * <https://github.com/hananedupouy/LLMs-in-Finance>
 * <https://github.com/virattt/ai-hedge-fund>
+* <https://lambdafinance.ai> - ai for stock
 
 ## robot framework
 
@@ -297,6 +303,11 @@ Codes and notes while learning LLM
 
 * <https://github.com/adithya-s-k/omniparse> - parse everything into LLM RAG data.
 * <https://www.datafuel.dev/>
+* <https://github.com/spiceai/spiceai> - data query layer
+
+## AI image generator
+
+* <https://raphael.app>
 
 ## Crypto X AI
 
@@ -330,6 +341,7 @@ Codes and notes while learning LLM
 ## Chrome AI extension
 
 * <https://chromewebstore.google.com/detail/scaffoly/ifonfkpiahoafgmfjebocgaadgbjbebc> - AI-Powered Reading Level Adjustment
+* <https://github.com/thepersonalaicompany/amurex> - AI meeting copilot
 
 ## structured generation
 
@@ -360,6 +372,7 @@ Codes and notes while learning LLM
 
 * <https://www.structai.in/> - github repo to text
 * <https://github.com/yamadashy/repomix> - github repo to text
+* <https://repoprompt.com/> - github repo to xml
 
 ## LLM toys
 
@@ -379,10 +392,13 @@ Codes and notes while learning LLM
 
 * <https://huggingface.co/spaces/gabrielchua/open-notebooklm>
 * <https://github.com/souzatharsis/podcastfy>
+* <https://jellypod.ai/>
 
 ## AI Code Review
 
 * <https://github.com/vossenwout/crev> - code bundle and ai code review the whole code.
+* coderabbitai
+* <https://devgen.xyz/> - like github copilot for repo
 
 ## LLM Memory
 
