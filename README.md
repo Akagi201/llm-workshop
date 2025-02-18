@@ -79,6 +79,7 @@ Codes and notes while learning LLM
 * <https://github.com/NirDiamant/RAG_Techniques> - RAG knowledges
 * <https://github.com/anthropics/courses>
 * <https://github.com/Hoper-J/AI-Guide-and-Demos-zh_CN>
+* <https://github.com/karminski/one-small-step> - short chinese LLM tutorials
 
 ## GPT explain
 
@@ -176,7 +177,7 @@ Codes and notes while learning LLM
 * <https://github.com/miurla/morphic>
 * <https://github.com/vercel/ai-chatbot>
 
-## Langchain/RAG projects
+## Langchain/RAG projects/ai agent
 
 * <https://github.com/lypsoty112/Prompt-builder>
 * <https://github.com/homanp/superagent>
@@ -188,11 +189,14 @@ Codes and notes while learning LLM
 * <https://github.com/bosun-ai/swiftide> - Rust RAG framework
 * <https://github.com/Abraxas-365/langchain-rust> - langchain for rust
 * <https://github.com/baehyunsol/ragit>
-* <https://github.com/tensorzero/tensorzero> -- Rust RAG framework
+* <https://github.com/tensorzero/tensorzero> - Rust RAG framework
+* <https://github.com/lecca-digital/lecca-io> - typescript ai agent platform
 
 ## AI Agent
 
 * <https://metaschool.so/ai-agents> - ai agent marketplace
+* <https://www.agentrecipes.com/> - ai agent workflow
+* <https://modelcontextprotocol.io/introduction> - MCP protocol
 
 ## LLM models evaluation
 
@@ -242,6 +246,8 @@ Codes and notes while learning LLM
 * <https://github.com/hananedupouy/LLMs-in-Finance>
 * <https://github.com/virattt/ai-hedge-fund>
 * <https://lambdafinance.ai> - ai for stock
+* <https://github.com/chisasaw/zenith> - ai analysis for stock
+* <https://trading.snagra.com/> - AI trading arena
 
 ## robot framework
 
@@ -272,6 +278,7 @@ Codes and notes while learning LLM
 * <https://github.com/mediar-ai/screenpipe> - Opensource Local AI screen and mic recorder
 * <https://notebooklm.google.com> - Google AI Notebook, with gemini pro inside
 * <https://spellar.ai/> - native AI meeting recorder
+* <https://www.aiagenttoolkit.xyz/#tools> - AI tools directory
 
 ## llama projects
 
@@ -333,6 +340,7 @@ Codes and notes while learning LLM
 * <https://github.com/cg-dot/vertexai-cf-workers>
 * <https://github.com/TheValkyrja/VertexClaudeProxy>
 * <https://github.com/Portkey-AI/gateway>
+* <https://github.com/katanemo/archgw> - rust
 
 ## LLM wasm
 
@@ -373,6 +381,8 @@ Codes and notes while learning LLM
 * <https://www.structai.in/> - github repo to text
 * <https://github.com/yamadashy/repomix> - github repo to text
 * <https://repoprompt.com/> - github repo to xml
+* <https://github.com/drgsn/filefusion> - concatenate and process files in a format optimized for Large Language Models (LLMs)
+* <https://github.com/mufeedvh/code2prompt> - code to a single prompt
 
 ## LLM toys
 
