@@ -80,6 +80,9 @@ Codes and notes while learning LLM
 * <https://github.com/anthropics/courses>
 * <https://github.com/Hoper-J/AI-Guide-and-Demos-zh_CN>
 * <https://github.com/karminski/one-small-step> - short chinese LLM tutorials
+* <https://huggingface.co/learn/agents-course/unit0/introduction> - AI agent course
+* <https://github.com/NirDiamant/RAG_Techniques>
+* <https://github.com/Shubhamsaboo/awesome-llm-apps>
 
 ## GPT explain
 
@@ -171,6 +174,7 @@ Codes and notes while learning LLM
 * <https://github.com/wiseaidev/gems> - gemini sdk
 * <https://github.com/ShelbyJenkins/llm_utils> - rust llm utils
 * <https://github.com/shelbyJenkins/llm_client> - rust llm clients
+* <https://www.orate.dev/> - AI SDK for speech, node.js
 
 ## Chatgpt frontend
 
@@ -191,12 +195,20 @@ Codes and notes while learning LLM
 * <https://github.com/baehyunsol/ragit>
 * <https://github.com/tensorzero/tensorzero> - Rust RAG framework
 * <https://github.com/lecca-digital/lecca-io> - typescript ai agent platform
+* <https://block.github.io/goose/docs/quickstart> - rust ai agent for pc with mcp
+* <https://mastra.ai/> - node.js ai agent
+* <https://blog.cloudflare.com/build-ai-agents-on-cloudflare/>
 
 ## AI Agent
 
 * <https://metaschool.so/ai-agents> - ai agent marketplace
 * <https://www.agentrecipes.com/> - ai agent workflow
 * <https://modelcontextprotocol.io/introduction> - MCP protocol
+
+## MCP
+
+* <https://cline.bot/mcp-marketplace>
+* <https://github.com/d6e/cratedocs-mcp>
 
 ## LLM models evaluation
 
@@ -260,6 +272,7 @@ Codes and notes while learning LLM
 ## Fine tuning
 
 * <https://github.com/InternLM/xtuner/>
+* <https://github.com/unslothai/unsloth>
 
 ## AI products
 
@@ -279,6 +292,7 @@ Codes and notes while learning LLM
 * <https://notebooklm.google.com> - Google AI Notebook, with gemini pro inside
 * <https://spellar.ai/> - native AI meeting recorder
 * <https://www.aiagenttoolkit.xyz/#tools> - AI tools directory
+* <https://github.com/ahmedkhaleel2004/gitdiagram> - github repo to diagram
 
 ## llama projects
 
@@ -301,6 +315,10 @@ Codes and notes while learning LLM
 ## AI Girlfriend
 
 * <https://aigirl.best/>
+
+## PDF to LLM
+
+* <https://github.com/allenai/olmocr>
 
 ## Embedding DB
 
@@ -421,6 +439,11 @@ Codes and notes while learning LLM
 ## Editor AI
 
 * <https://github.com/codestoryai/sidecar> - <https://aide.dev/>
+* <https://pypi.org/project/cursor-rules/> - install cursor rules
+
+## Github Models
+
+* <https://github.com/marketplace/models>
 
 ## Fake human
 
