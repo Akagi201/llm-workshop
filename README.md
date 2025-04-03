@@ -207,8 +207,17 @@ Codes and notes while learning LLM
 
 ## MCP
 
+* client: claude desktop, cline
+* <https://smithery.ai/> - mcp explorer
+* <https://mcp.so/>
 * <https://cline.bot/mcp-marketplace>
 * <https://github.com/d6e/cratedocs-mcp>
+* <https://github.com/rosssaunders/cryptoapidocs>
+* <https://github.com/21st-dev/magic-mcp>
+* <https://github.com/chatmcp/mcp-directory>
+* <https://github.com/spiceai/spiceai> - LLM Data gateway
+* <https://github.com/kaichen/mcp-local-router> - MCP server aggregator
+* <https://github.com/d6e/cratedocs-mcp> - mcp server for crate
 
 ## LLM models evaluation
 
