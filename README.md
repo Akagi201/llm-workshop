@@ -218,6 +218,10 @@ Codes and notes while learning LLM
 * <https://github.com/spiceai/spiceai> - LLM Data gateway
 * <https://github.com/kaichen/mcp-local-router> - MCP server aggregator
 * <https://github.com/d6e/cratedocs-mcp> - mcp server for crate
+* <https://github.com/mark3labs/mcp-go> - mcp golang sdk
+* <https://github.com/lastmile-ai/mcp-agent>
+* apisix
+* apifox
 
 ## LLM models evaluation
 
