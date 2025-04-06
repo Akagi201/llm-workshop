@@ -222,6 +222,8 @@ Codes and notes while learning LLM
 * <https://github.com/lastmile-ai/mcp-agent>
 * apisix
 * apifox
+* <https://github.com/github/github-mcp-server> - GitHub mcp server
+* <https://github.com/punkpeye/awesome-mcp-servers>
 
 ## LLM models evaluation
 

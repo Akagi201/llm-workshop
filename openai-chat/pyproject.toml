@@ -1,20 +1,27 @@
-[tool.poetry]
+[project]
 name = "openai-chat"
 version = "0.1.0"
-description = ""
-authors = ["Akagi201 <akagi201@gmail.com>"]
+description = "Add your description here"
 readme = "README.md"
-packages = [{include = "openai_chat", from = "src"}]
+requires-python = ">=3.13"
+dependencies = [
+    "openai>=1.70.0",
+]
 
-[tool.poetry.dependencies]
-python = "^3.10"
-openai = "^1.16.2"
+[dependency-groups]
+dev = [
+    "mypy>=1.15.0",
+    "ruff>=0.11.2",
+]
 
-
-[tool.poetry.group.dev.dependencies]
-ruff = "^0.3.5"
-mypy = "^1.9.0"
+[project.scripts]
+openai-chat = "openai_chat.cli:main"
 
 [build-system]
-requires = ["poetry-core"]
-build-backend = "poetry.core.masonry.api"
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[tool.hatch.build.targets.wheel]
+packages = [
+    "src/openai_chat",
+]
