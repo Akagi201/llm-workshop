@@ -3,7 +3,7 @@ from openai import OpenAI
 def main():
     client = OpenAI(
     api_key="sk-1234",
-    base_url="http://127.0.0.1:3000/v1",
+    base_url="http://0g-gateway.longcipher.com:3000/v1",
     )
 
     completion = client.chat.completions.create(
