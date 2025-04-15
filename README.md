@@ -224,6 +224,9 @@ Codes and notes while learning LLM
 * apifox
 * <https://github.com/github/github-mcp-server> - GitHub mcp server
 * <https://github.com/punkpeye/awesome-mcp-servers>
+* <https://mcpm.sh/> - mcp server management
+* <https://browsermcp.io/>
+* <https://cursor.directory/mcp>
 
 ## LLM models evaluation
 
@@ -275,6 +278,7 @@ Codes and notes while learning LLM
 * <https://lambdafinance.ai> - ai for stock
 * <https://github.com/chisasaw/zenith> - ai analysis for stock
 * <https://trading.snagra.com/> - AI trading arena
+* <https://github.com/virattt/ai-hedge-fund>
 
 ## robot framework
 
@@ -305,7 +309,8 @@ Codes and notes while learning LLM
 * <https://aitoolly.com/> - AI products directory
 * <https://github.com/mediar-ai/screenpipe> - Opensource Local AI screen and mic recorder
 * <https://notebooklm.google.com> - Google AI Notebook, with gemini pro inside
-* <https://spellar.ai/> - native AI meeting recorder
+* <https://spellar.ai/> - native AI meeting recorder.
+* <https://github.com/Zackriya-Solutions/meeting-minutes> - open source AI meeting.
 * <https://www.aiagenttoolkit.xyz/#tools> - AI tools directory
 * <https://github.com/ahmedkhaleel2004/gitdiagram> - github repo to diagram
 
@@ -468,3 +473,7 @@ Codes and notes while learning LLM
 
 * <https://github.com/cortesi/tenx>
 * <https://github.com/Aider-AI/aider>
+
+## copilot
+
+* <https://cursor.directory/rules> - cursor rules
