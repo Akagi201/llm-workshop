@@ -198,6 +198,7 @@ Codes and notes while learning LLM
 * <https://block.github.io/goose/docs/quickstart> - rust ai agent for pc with mcp
 * <https://mastra.ai/> - node.js ai agent
 * <https://blog.cloudflare.com/build-ai-agents-on-cloudflare/>
+* <https://github.com/The-Pocket/PocketFlow> - minimal framework
 
 ## AI Agent
 
@@ -227,11 +228,22 @@ Codes and notes while learning LLM
 * <https://mcpm.sh/> - mcp server management
 * <https://browsermcp.io/>
 * <https://cursor.directory/mcp>
+* <https://github.com/TBXark/mcp-proxy>
+* <https://github.com/upstash/context7> - library docs mcp
+* <https://www.pulsemcp.com/servers>
+* <https://github.com/riseandignite/mcp-shield>
+* <https://github.com/sxhxliang/mcp-access-point> - api to mcp gateway
+
+## A2A
+
+* <https://www.a2aprotocol.net/>
+* <https://github.com/google/a2a>
 
 ## LLM models evaluation
 
 * <https://github.com/Giskard-AI/giskard>
 * <https://www.talc.ai/>
+* <https://google.github.io/A2A/>
 
 ## Deep learning framework
 
@@ -379,6 +391,7 @@ Codes and notes while learning LLM
 * <https://github.com/TheValkyrja/VertexClaudeProxy>
 * <https://github.com/Portkey-AI/gateway>
 * <https://github.com/katanemo/archgw> - rust
+* <https://github.com/langdb/ai-gateway> - rust, support MCP
 
 ## LLM wasm
 
@@ -405,6 +418,7 @@ Codes and notes while learning LLM
 * <https://github.com/devflowinc/trieve> - Rust
 * <https://github.com/Talc-AI/search-bench> - AI Search bench
 * <https://github.com/bosun-ai/swiftide>
+* <https://github.com/ItzCrazyKns/Perplexica>
 
 ## LLM Data
 
@@ -421,6 +435,10 @@ Codes and notes while learning LLM
 * <https://repoprompt.com/> - github repo to xml
 * <https://github.com/drgsn/filefusion> - concatenate and process files in a format optimized for Large Language Models (LLMs)
 * <https://github.com/mufeedvh/code2prompt> - code to a single prompt
+
+## Github Repo analysis
+
+* <https://deepwiki.com/paradigmxyz/reth>
 
 ## LLM toys
 
