@@ -199,6 +199,7 @@ Codes and notes while learning LLM
 * <https://mastra.ai/> - node.js ai agent
 * <https://blog.cloudflare.com/build-ai-agents-on-cloudflare/>
 * <https://github.com/The-Pocket/PocketFlow> - minimal framework
+* <https://github.com/jeremychone/rust-agentic> rust mcp+a2a
 
 ## AI Agent
 
@@ -495,3 +496,9 @@ Codes and notes while learning LLM
 ## copilot
 
 * <https://cursor.directory/rules> - cursor rules
+
+## git commit
+
+* <https://github.com/jnsahaj/lumen>
+* <https://github.com/shenxiangzhuang/aic>
+* <https://github.com/Emin017/git-commit-generator>
