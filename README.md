@@ -83,6 +83,7 @@ Codes and notes while learning LLM
 * <https://huggingface.co/learn/agents-course/unit0/introduction> - AI agent course
 * <https://github.com/NirDiamant/RAG_Techniques>
 * <https://github.com/Shubhamsaboo/awesome-llm-apps>
+* <https://github.com/dair-ai/Prompt-Engineering-Guide>
 
 ## GPT explain
 
@@ -175,6 +176,14 @@ Codes and notes while learning LLM
 * <https://github.com/ShelbyJenkins/llm_utils> - rust llm utils
 * <https://github.com/shelbyJenkins/llm_client> - rust llm clients
 * <https://www.orate.dev/> - AI SDK for speech, node.js
+* <https://github.com/jeremychone/rust-genai> - rust
+* <https://github.com/pepperoni21/ollama-rs> - ollama
+
+## TTS
+
+* <https://elevenlabs.io/>
+* <https://www.minimaxi.com/audio>
+* doubao
 
 ## Chatgpt frontend
 
@@ -206,6 +215,7 @@ Codes and notes while learning LLM
 * <https://metaschool.so/ai-agents> - ai agent marketplace
 * <https://www.agentrecipes.com/> - ai agent workflow
 * <https://modelcontextprotocol.io/introduction> - MCP protocol
+* <https://github.com/aipack-ai/aipack> - rust
 
 ## MCP
 
@@ -234,6 +244,7 @@ Codes and notes while learning LLM
 * <https://www.pulsemcp.com/servers>
 * <https://github.com/riseandignite/mcp-shield>
 * <https://github.com/sxhxliang/mcp-access-point> - api to mcp gateway
+* <https://code.visualstudio.com/mcp> - vscode mcp tools
 
 ## A2A
 
@@ -264,6 +275,10 @@ Codes and notes while learning LLM
 * <https://github.com/joshua-mo-143/severn>
 * <https://github.com/0xPlaygrounds/rig> - rust llm framework, best
 * <https://github.com/tensorzero/tensorzero/> - rust
+
+## LLM Playground
+
+* <https://playground.ai.cloudflare.com/>
 
 ## Rust ML
 
@@ -436,6 +451,7 @@ Codes and notes while learning LLM
 * <https://repoprompt.com/> - github repo to xml
 * <https://github.com/drgsn/filefusion> - concatenate and process files in a format optimized for Large Language Models (LLMs)
 * <https://github.com/mufeedvh/code2prompt> - code to a single prompt
+* <https://github.com/marv1nnnnn/llm-min.txt> - docs to llm
 
 ## Github Repo analysis
 
@@ -502,3 +518,21 @@ Codes and notes while learning LLM
 * <https://github.com/jnsahaj/lumen>
 * <https://github.com/shenxiangzhuang/aic>
 * <https://github.com/Emin017/git-commit-generator>
+
+## AI sandbox
+
+* <https://github.com/microsandbox/microsandbox>
+
+## Claude Code
+
+* <https://github.com/NomenAK/SuperClaude> - enhances Claude Code with specialized commands
+* <https://github.com/getAsterisk/claudia> - GUI for claude code.
+* <https://github.com/google-gemini/gemini-cli>
+* <https://github.com/hesreallyhim/awesome-claude-code>
+
+## Frontend
+
+* <https://stitch.withgoogle.com/> - UI
+* bolt.new
+* same.new
+* v0.dev
