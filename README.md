@@ -245,6 +245,7 @@ Codes and notes while learning LLM
 * <https://github.com/riseandignite/mcp-shield>
 * <https://github.com/sxhxliang/mcp-access-point> - api to mcp gateway
 * <https://code.visualstudio.com/mcp> - vscode mcp tools
+* <https://mcp.ing/> - mcp directory
 
 ## A2A
 
@@ -470,6 +471,7 @@ Codes and notes while learning LLM
 ## LLM UI
 
 * <https://github.com/gradio-app/gradio>
+* <https://uiprompt.art/>
 
 ## Notebook to podcast
 

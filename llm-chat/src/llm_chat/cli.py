@@ -7,9 +7,9 @@ os.environ['COHERE_API_KEY'] = ""
 def main():
   response = completion(
       # model="deepseek/deepseek-chat", 
-      model="openai/gpt",
-      api_key="sk-1234",
-      api_base="http://127.0.0.1:3000",
+      model="openai/gpt-4.1",
+      api_key="",
+      api_base="https://models.github.ai/inference",
       messages=[
         {"role": "user", "content": "hello from litellm"}
     ],
