@@ -27,6 +27,8 @@ Codes and notes while learning LLM
 * <https://secretllama.com/> - web llama
 * <https://github.com/floneum/floneum> - local llm in rust
 * <https://github.com/evilsocket/cake> - local llm in rust
+* <https://github.com/openai/harmony> - renderer for the harmony response format
+* <https://github.com/unslothai/unsloth>
 
 ## Free LLMs
 
@@ -138,6 +140,7 @@ Codes and notes while learning LLM
 * <https://chat.lmsys.org/>
 * <https://compareaimodels.com/premium/>
 * <https://llmcost.me/>
+* <https://models.dev/> - open source database of AI models
 
 ## GPT Projects
 
@@ -246,6 +249,14 @@ Codes and notes while learning LLM
 * <https://github.com/sxhxliang/mcp-access-point> - api to mcp gateway
 * <https://code.visualstudio.com/mcp> - vscode mcp tools
 * <https://mcp.ing/> - mcp directory
+* <https://github.com/antvis/mcp-server-chart>
+* <https://mcp-get.com/>
+* <https://github.com/mcp> - github mcp registry
+
+## Coze
+
+* <https://bxh12lk3f66.feishu.cn/wiki/K7LewNL88iwgHEkusY8cVUtCnmc>
+* <https://zcnxgumfhono.feishu.cn/docx/D3MPdRAJBoetDXxCiY6c5Wk5nTh>
 
 ## A2A
 
@@ -525,12 +536,21 @@ Codes and notes while learning LLM
 
 * <https://github.com/microsandbox/microsandbox>
 
-## Claude Code
+## Claude Code/Coding
 
 * <https://github.com/NomenAK/SuperClaude> - enhances Claude Code with specialized commands
 * <https://github.com/getAsterisk/claudia> - GUI for claude code.
 * <https://github.com/google-gemini/gemini-cli>
 * <https://github.com/hesreallyhim/awesome-claude-code>
+* <https://github.com/ryoppippi/ccusage>
+
+## Github Copilot
+
+* <https://github.com/github/awesome-copilot>
+
+## Open Source LLM
+
+* <https://github.com/tekaratzas/RustGPT> - pure rust
 
 ## Frontend
 
