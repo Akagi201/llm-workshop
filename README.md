@@ -543,6 +543,7 @@ Codes and notes while learning LLM
 * <https://github.com/google-gemini/gemini-cli>
 * <https://github.com/hesreallyhim/awesome-claude-code>
 * <https://github.com/ryoppippi/ccusage>
+* <https://github.com/eigent-ai/eigent> - open source cowork
 
 ## Github Copilot
 
@@ -558,3 +559,9 @@ Codes and notes while learning LLM
 * bolt.new
 * same.new
 * v0.dev
+
+## Agent Skills
+
+* <https://github.com/vercel-labs/add-skill>
+* <https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering>
+* <https://github.com/yusufkaraaslan/Skill_Seekers>
