@@ -252,6 +252,7 @@ Codes and notes while learning LLM
 * <https://github.com/antvis/mcp-server-chart>
 * <https://mcp-get.com/>
 * <https://github.com/mcp> - github mcp registry
+* <https://github.com/FuzzingLabs/mcp-security-hub> - security tools mcp
 
 ## Coze
 
@@ -565,3 +566,15 @@ Codes and notes while learning LLM
 * <https://github.com/vercel-labs/add-skill>
 * <https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering>
 * <https://github.com/yusufkaraaslan/Skill_Seekers>
+* <https://www.skillhub.club/>
+* <https://github.com/obra/superpowers>
+* <https://agent-skills.md/>
+* <https://skills.sh/>
+* <https://www.skills.google/>
+
+## OpenClaw
+* <https://trustmrr.com/special-category/openclaw> - startups
+
+## Opencode
+
+* <https://github.com/RoundTable02/remote-opencode> - opencode discord bot
