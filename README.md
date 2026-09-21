@@ -136,6 +136,7 @@ Codes and notes while learning LLM
 
 * <https://llmpricecheck.com/> - LLM Pricing comparison
 * <https://github.com/arc53/llm-price-compass> - LLM Pricing comparison 
+* <https://modelglass.com.au/> - AI model pricing and capability registry (LLM/image/video/audio)
 * <https://www.vellum.ai/>
 * <https://chat.lmsys.org/>
 * <https://compareaimodels.com/premium/>
